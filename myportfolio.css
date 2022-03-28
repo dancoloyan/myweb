@@ -1,0 +1,27 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+    
+  }
+
+.qwe{
+    color: #00c9db;
+}
+
+.qwez{
+    color: #00c9db;
+    font-weight: bold;
+}
+
+.qwerty{
+    font-size: 1.8rem;
+}
+
+i{
+    color: #3a394e;
+}
+
+i:hover{
+    color: #737280;
+}
